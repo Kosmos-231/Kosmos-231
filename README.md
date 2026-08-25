@@ -2,13 +2,24 @@
 
 ###
 
-<p align="center">
-  <img src="https://skillicons.dev" alt="My Skills" />
-</p>
+<div align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev" alt="Tools" />
-</p>
+###
+
+<div align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</div>
 
 ###
 

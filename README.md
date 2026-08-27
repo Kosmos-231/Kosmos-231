@@ -8,6 +8,11 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev" height="40" alt="javascript logo" />
+  <img width="12" />
 </div>
 
 ###
@@ -18,6 +23,10 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev" height="40" alt="qt logo" />
 </div>
 
 ###

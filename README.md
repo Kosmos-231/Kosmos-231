@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo" />
   <img width="12" />
-  <img src="(https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
 </div>
 
 ###

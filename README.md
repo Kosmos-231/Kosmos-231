@@ -24,9 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode=nodejs" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev" height="40" alt="qt logo" />
+  <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo" />
 </div>
 
 ###
